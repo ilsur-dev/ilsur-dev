@@ -1,7 +1,8 @@
 # Hi there 👋
 ### I ❤️️ Microservices architecture, Docker & Kubernetes
 ![Docker](https://339910.selcdn.ru/ilsur_dev/pictures/docker1.jpg)
-
+---
+![](https://komarev.com/ghpvc/?username=ilsur-dev&style=flat-square)
 
 <!--
 **ilsur-dev/ilsur-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
